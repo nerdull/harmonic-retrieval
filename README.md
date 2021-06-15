@@ -50,5 +50,7 @@ For details, see the bottom lines of the code.
 ## Reference
 Xiangcheng Chen, [_Phys. Rev. E_ **101**, 053310](https://doi.org/10.1103/PhysRevE.101.053310) (2020).
 
+An [Open Access](https://pure.rug.nl/ws/portalfiles/portal/171907531/PhysRevE.101.053310.pdf) is kindly provided by the University of Groningen.
+
 ## License
 This repository is licensed under the **GNU GPLv3**.
